@@ -1,0 +1,6 @@
+# Needed only for real ward boundaries, OSM layers and WorldPop zonal stats
+geopandas>=0.14
+shapely>=2.0
+osmnx>=1.9
+rasterio>=1.3
+rasterstats>=0.19
